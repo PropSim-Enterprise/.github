@@ -10,7 +10,17 @@
 
 [![Free prop firm landing page templates](https://raw.githubusercontent.com/PropSim-Enterprise/prop-firm-landing-page-templates/main/site/img/banner.webp)](https://github.com/PropSim-Enterprise/prop-firm-landing-page-templates)
 
-Ten free, MIT-licensed prop firm website templates in React and Tailwind CSS: challenge pricing, an account picker, phase-by-phase rules and an FAQ, all built from one config file. [Live demo](https://propsim-enterprise.github.io/prop-firm-landing-page-templates/) · [Code](https://github.com/PropSim-Enterprise/prop-firm-landing-page-templates)
+Ten free, MIT-licensed prop firm website templates in React and Tailwind CSS: challenge pricing, an account picker, phase-by-phase rules, an FAQ, and matching trader sign-up and sign-in pages, all built from one config file. [Live demo](https://propsim-enterprise.github.io/prop-firm-landing-page-templates/) · [Code](https://github.com/PropSim-Enterprise/prop-firm-landing-page-templates)
+
+### More free tools
+
+| Project | What it is |
+|---|---|
+| [**Prop firm calculators**](https://github.com/PropSim-Enterprise/prop-firm-calculators) | Drawdown, position size, the cost of getting funded, payouts and a prop firm revenue model. [Open the calculators](https://propsim-enterprise.github.io/prop-firm-calculators/) |
+| [**Prop firm pass rates**](https://github.com/PropSim-Enterprise/prop-firm-pass-rates) | Weekly open data (CSV, JSON, CC BY 4.0): how many traders pass prop firm challenges, how long it takes and why they fail |
+| [**prop-firm-rules**](https://github.com/PropSim-Enterprise/prop-firm-rules) | A TypeScript library that evaluates challenge rules: profit target, daily loss, maximum and trailing drawdown, trading days and consistency |
+| [**Prop Firm Risk Panel**](https://github.com/PropSim-Enterprise/prop-firm-tradingview-indicator) | A TradingView indicator (Pine Script): position size by risk, and the losing trades left to your daily loss limit and maximum loss |
+| [**Awesome Prop Firms**](https://github.com/PropSim-Enterprise/awesome-prop-firms) | A curated list of prop firm software, trading platforms, payments, KYC, regulation and trader tools |
 
 ## What PropSim runs for a prop firm
 
